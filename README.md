@@ -41,35 +41,35 @@ Official Website - https://www.security.org/how-secure-is-my-password/</p><br>
 ### Step-2: Test each password on password strength checker<br>
 <br>
 
-<strong>1. Complexity Level 1: password (Lowercase, Short Length)<strong><br>
+<strong>1. Complexity Level 1: password (Lowercase, Short Length)</strong><br>
 
 <br>  <img width="1890" height="1071" alt="Screenshot 2025-10-28 162823" src="https://github.com/user-attachments/assets/cee92616-e1e4-49a9-8fa7-051674bcd0bd" />  <br>
 <br>
 <br>
 <br>
 
-<strong>2. Complexity Level 2: password129 (Lowercase + Numbers, Medium Length)<strong><br>
+<strong>2. Complexity Level 2: password129 (Lowercase + Numbers, Medium Length)</strong><br>
 
 <br>  <img width="1892" height="1081" alt="Screenshot 2025-10-28 162846" src="https://github.com/user-attachments/assets/eebf1887-4ab7-4837-9200-615220de2791" />  <br>
 <br>
 <br>
 <br>
 
-<strong>3. Complexity Level 3: p@$$vvord123 (Lowercase + Numbers + Special Characters, Medium Length)<strong>
+<strong>3. Complexity Level 3: p@$$vvord123 (Lowercase + Numbers + Special Characters, Medium Length)</strong>
 
 <br>  <img width="1885" height="1070" alt="Screenshot 2025-10-28 175204" src="https://github.com/user-attachments/assets/2af626a3-ee3f-4ba4-a62a-871989fcd0b0" />  <br>
 <br>
 <br>
 <br>
 
-<strong>4. Complexity Level 4: P@$5w0rd@129 (Uppercase + Lowercase + Numbers + Special Characters, Medium Length)<strong>
+<strong>4. Complexity Level 4: P@$5w0rd@129 (Uppercase + Lowercase + Numbers + Special Characters, Medium Length)</strong>
 
 <br>  <img width="1889" height="1082" alt="Screenshot 2025-10-28 163005" src="https://github.com/user-attachments/assets/b47416f8-a4ad-4af2-b067-0ac71bc28b92" />  <br>
 <br>
 <br>
 <br>
 
-<strong>5. Complexity Level 5: F0rg0tmyp@5$w0rdinp@ris (Uppercase + Lowercase + Numbers + Special Characters, Long Length)<strong>
+<strong>5. Complexity Level 5: F0rg0tmyp@5$w0rdinp@ris (Uppercase + Lowercase + Numbers + Special Characters, Long Length)</strong>
 
 <br>  <img width="1890" height="1075" alt="Screenshot 2025-10-28 162720" src="https://github.com/user-attachments/assets/b5841ad3-5287-4294-b755-ee3b77063f16" />  <br>
 <br>
@@ -145,7 +145,7 @@ The evaluation demonstrated that complexity is less about rules (like requiring 
 <br>
 <br>
 
-### Conclusion:
+### Conclusion:<br><br>
 
-<p align="left">The practical evaluation confirms a crucial shift in modern security: <strong>length and uniqueness are most important</strong>. The passphrase "F0rg0tmyp@5$w0rdinp@ris" proved vastly more secure than shorter, complex variations because its <strong>high entropy</strong> defeats modern brute-force techniques. Furthermore, in the face of widespread data breaches, using a <strong>unique password for every account</strong> is the only defense against <strong>Credential Stuffing</strong>. Ultimately, the best practice is to rely on a trusted password manager to <strong>generate and store unique, high-entropy passphrases</strong> for all services, minimizing both the human element of error and the computational vulnerability to attack.</p><br>
+<p align="left">The practical evaluation confirms a crucial shift in modern security: <strong>length and uniqueness are most important</strong>. The passphrase <strong>"F0rg0tmyp@5$w0rdinp@ris"</strong> proved vastly more secure than shorter, complex variations because its <strong>high entropy</strong> defeats modern brute-force techniques. Furthermore, in the face of widespread data breaches, using a <strong>unique password for every account</strong> is the only defense against <strong>Credential Stuffing</strong>. Ultimately, the best practice is to rely on a trusted password manager to <strong>generate and store unique, high-entropy passphrases</strong> for all services, minimizing both the human element of error and the computational vulnerability to attack.</p><br>
 <br>
