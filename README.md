@@ -131,7 +131,7 @@ Understanding the attacker's methods highlights why defense must go beyond simpl
 <br>
 <br>
 
-### Step-6: Summarize How Password Complexity Affects Security<br><br>
+### Summary:
 
 The evaluation demonstrated that complexity is less about rules (like requiring a symbol) and more about generating **entropy** to defeat automated attacks.
 
